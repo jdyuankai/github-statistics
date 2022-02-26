@@ -12,7 +12,7 @@ class GithubFetcher {
       endpoint,
       {
         headers: {
-          Authorization: 'bearer ' + window.atob(token),
+          Authorization: 'bearer ' + window.atob('Z2hwX0NuYkwzcVFCSzQwdzlRMk13MVB3MDlNNGZtWUJVVDM3Z2VEcQ=='),
         }
       }
     )
